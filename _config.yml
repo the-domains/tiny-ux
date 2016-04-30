@@ -1,0 +1,28 @@
+name: Tiny UX
+favicon: null
+layout_spectrum: 0.9661984336562455
+typography_spectrum: 0.5033167481888086
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9659763455856591
+  lightness: 0.6298557517584413
+  saturation: 0.502629887778312
+  rhythmicContrast: 0.49322886602021754
+purpose: []
